@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André</h1>
-<h3 align="center">A very Tech Passionate Backend & IoT developer from Portugal</h3>
+<h3 align="center">A very Tech Passionate Backend & Cloud developer from Portugal</h3>
 
 - 🔭 I’m currently working on **my Company's Internal Python-based Tools**
 
