@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **Small Projects**
 
-- 👨‍💻 All of my projects are available at [Working on building a portfolio](Working on building a portfolio)
+- 👨‍💻 All of my projects are available at (Working on building a portfolio)
 
-- 📝 I regularly write articles on [Will upload my thesis when posted](Will upload my thesis when posted)
+- 📝 I regularly write articles on (Will upload my thesis when posted)
 
 - 📫 How to reach me **alourenco.nsilva@gmail.com**
 
