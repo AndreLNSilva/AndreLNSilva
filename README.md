@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm André</h1>
 <h3 align="center">A very Tech Passionate Backend & Cloud developer from Portugal</h3>
 
-- 🔭 I’m currently working on **my Company's Internal Python-based Tools**
+- 🔭 I’m currently working on **Applications Azure Cloud Migrations**
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m currently learning about **Azure Cloud (AZ-204) and GitHub Copilot Agents (GH-600)**
 
 - 👯 I’m looking to collaborate on **Backend & Cloud Projects**
 
-- 🤝 I’m looking for help with **Small Projects**
+- 🤝 I’m looking for help with **Small Projects**, currently doing a private java project
 
 - 👨‍💻 All of my projects are available at (Working on building a portfolio)
 
-- 📝 I regularly write articles on (Will upload my thesis when posted)
+- 📝 I Will upload my thesis when posted on my University Platform!
 
 - 📫 How to reach me **alourenco.nsilva@gmail.com**
 
